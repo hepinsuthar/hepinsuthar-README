@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 💬 Ask me about **HTML, CSS , Tailwind CSS , git , github**
+- 💬 Ask me about **HTML, CSS , JAVASCRIPT Tailwind CSS , git , github**
 
 - 📫 How to reach me **sutharhepin2610@gmail.com**
 
